@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Eczar&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Eczar', serif;
+}
+
+.WorkSans{
+    font-family: 'Work Sans', sans-serif;
+}
