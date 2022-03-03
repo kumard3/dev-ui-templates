@@ -25,7 +25,7 @@ const WorkCard = ({ title, description, image }) => {
   return (
     <div className="bg-[#FFF8F2]  overflow-hidden my-3  rounded-2xl">
       <div className="grid sm:flex  before:content-[''] before:bg-black  justify-between items-center  h-[300px]   max-w-6xl">
-        <div className=" bg-[#FFF8F2]/50 backdrop-blur-[1px] text-gray-900 px-3 w-full sm:bg-none justify-center items-center h-[300px] flex flex-col sm:pl-10 z-50 sm:max-w-[400px] ">
+        <div className=" bg-[#FFF8F2]/[.01] backdrop-blur-[.6px] text-gray-900 px-3 w-full sm:bg-none justify-center items-center h-[300px] flex flex-col sm:pl-10 z-50 sm:max-w-[400px] ">
           <div className=" ">
             <h1 className="text-4xl WorkSans font-bold">{title}</h1>
             <p className="max-w-xs  text-lg WorkSans py-3 ">{description}</p>
