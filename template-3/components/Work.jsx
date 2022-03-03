@@ -25,13 +25,20 @@ const WorkData = [
 
 const WorkCard = ({ title, description, image }) => {
   return (
-    <div className="bg-[#FFF8F2] flex justify-between items-center overflow-hidden max-h-[400px] my-3 max-w-6xl rounded-2xl">
-      <div className="flex flex-col pl-10 w-[400px]">
-        <h1 className="text-4xl WorkSans font-bold">{title}</h1>
-        <p className="max-w-xs text-lg WorkSans py-3 ">{description}</p>
-      </div>
-      <div className=" overflow-hidden ">
-        <img src={image} alt={title} className="w-full h-full object-cover object-center" />
+    <div className="bg-[#FFF8F2]  overflow-hidden my-3  rounded-2xl">
+      <div className="flex justify-between items-center max-h-[400px]  max-w-6xl">
+        <div className=" absolute sm:relative flex flex-col pl-10 z-50 max-w-[400px] ">
+          <h1 className="text-4xl WorkSans font-bold">{title}</h1>
+          <p className="max-w-xs text-lg WorkSans py-3 ">{description}</p>
+        </div>
+
+        <div className=" overflow-hidden  opacity-90  ">
+          <img
+            src={image}
+            alt={title}
+            className="w-full h-full object-cover object-center  "
+          />
+        </div>
       </div>
     </div>
   );
