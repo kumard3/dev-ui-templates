@@ -11,7 +11,7 @@ export default function ContactSection() {
         <h1 className="text-black-800 max-w-3xl text-4xl sm:text-5xl md:text-6xl font-bold mb-8 md:mb-12">
           Let's work together and make everything super cute and super useful
         </h1>
-        <div className="w-full flex  justify-between">
+        <div className="w-full flex  flex-wrap justify-between">
           <a
             href="#"
             className="inline-block focus-visible:ring   border-[#4E5E80] hover:bg-[#4E5E80] hover:text-white ease-out  border-2 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-300 px-[2em] py-[.9em]"
@@ -19,11 +19,6 @@ export default function ContactSection() {
             Contact Me
           </a>
           <div className="flex justify-center lg:justify-start items-center gap-4">
-            <span className="text-gray-400 text-sm sm:text-base font-semibold tracking-widest uppercase">
-              Social
-            </span>
-            <span className="w-12 h-px bg-gray-200"></span>
-
             <div className="flex gap-4">
               <a
                 href="#"
