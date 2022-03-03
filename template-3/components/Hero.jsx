@@ -33,14 +33,20 @@ export default function Hero() {
             </div>
           </div>
         </div>
-        <div className=" h-[40rem] overflow-hidden ">
+        {/* <div className=" h-[40rem] overflow-hidden ">
           <img
             src="/Mask.png"
             loading="lazy"
             alt="Photo by Fakurian Design"
             className="w-full h-full object-cover object-center"
           />
-        </div>
+        </div> */}
+        <div className="flex flex-col items-center  justify-center">
+        <img
+        src="/Mask.png"
+          className="lg:h-[40rem] object-cover object-center "
+        />
+      </div>
       </section>
     </div>
   );

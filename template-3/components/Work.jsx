@@ -26,7 +26,7 @@ const WorkData = [
 const WorkCard = ({ title, description, image }) => {
   return (
     <div className="bg-[#FFF8F2] flex justify-between items-center overflow-hidden max-h-[400px] my-3 max-w-6xl rounded-2xl">
-      <div className="flex flex-col pl-10">
+      <div className="flex flex-col pl-10 w-[400px]">
         <h1 className="text-4xl WorkSans font-bold">{title}</h1>
         <p className="max-w-xs text-lg WorkSans py-3 ">{description}</p>
       </div>
@@ -39,9 +39,9 @@ const WorkCard = ({ title, description, image }) => {
 
 export default function Work() {
   return (
-    <div className="bg-[#FFDDBF]">
+    <div className="bg-[#FFDDBF] py-10 flex flex-col justify-center item-center w-full">
       <h1 className="text-[40px] pl-10">My Recent Work </h1>
-      <div className="container mx-auto">
+      <div className="grid px-6 items-center  justify-center">
         {WorkData.map((n) => {
           return (
             <WorkCard
