@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Hero() {
   return (
-    <div className="max-w-screen-2xl px-4 md:px-8 ">
+    <div className="max-w-screen-2xl px-4 container mx-auto ">
       <section className="flex flex-col lg:flex-row justify-between gap-6 sm:gap-10 md:gap-16">
         <div className="flex flex-col justify-between">
           <div className="sm:text-center lg:text-left lg:py-12 xl:py-24">
@@ -11,7 +11,7 @@ export default function Hero() {
             </button>
 
             <h1 className="text-black-800 flex flex-col justify-start items-start text-5xl sm:text-6xl md:text-7xl font-bold mb-8 md:mb-12">
-              I'm Shambhavi,
+              I'm Dummy Text,
               <span className="py-3">A Product Designer </span>
               <span>and Problem Solver</span>
             </h1>
@@ -42,11 +42,11 @@ export default function Hero() {
           />
         </div> */}
         <div className="flex flex-col items-center  justify-center">
-        <img
-        src="/Mask.png"
-          className="lg:h-[40rem] object-cover object-center px-10 sm:px-0 "
-        />
-      </div>
+          <img
+            src="/Mask.png"
+            className="lg:h-[40rem] object-cover object-center px-10 sm:px-0 "
+          />
+        </div>
       </section>
     </div>
   );
