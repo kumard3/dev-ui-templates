@@ -9,8 +9,8 @@ const AboutData = [
 ];
 export default function About() {
   return (
-    <div className="bg-[#FFDDBF]">
-      <div className="container w-full mx-auto flex flex-wrap justify-between mt-[2rem]">
+    <div className="bg-[#FFDDBF] pt-[2rem]">
+      <div className="container w-full mx-auto flex flex-wrap justify-between ">
         <div className="flex flex-col items-start justify-center max-w-lg  px-[30px]">
           <h1 className="text-5xl font-bold  text-left">
             A Little Bit About Me
@@ -28,10 +28,10 @@ export default function About() {
           </a>
         </div>
 
-        <div className="flex flex-col items-center  justify-center">
+        <div className="flex flex-col items-center  justify-center ">
           <img
             src="/Frame.png"
-            className="md:h-[30rem] sm:w-[27rem] p-10 md:p-0 "
+            className="md:h-[30rem] sm:w-[27rem] px-[5rem] sm:px-0"
           />
         </div>
       </div>

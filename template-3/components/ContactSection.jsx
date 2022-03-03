@@ -7,7 +7,7 @@ export default function ContactSection() {
     // </div>
 
     <>
-      <section className="container mx-auto py-10">
+      <section className="container mx-auto py-10 px-6">
         <h1 className="text-black-800 max-w-3xl text-4xl sm:text-5xl md:text-6xl font-bold mb-8 md:mb-12">
           Let's work together and make everything super cute and super useful
         </h1>

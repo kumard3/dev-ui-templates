@@ -44,7 +44,7 @@ export default function Hero() {
         <div className="flex flex-col items-center  justify-center">
         <img
         src="/Mask.png"
-          className="lg:h-[40rem] object-cover object-center "
+          className="lg:h-[40rem] object-cover object-center px-10 sm:px-0 "
         />
       </div>
       </section>
