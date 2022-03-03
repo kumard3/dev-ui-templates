@@ -2,9 +2,9 @@ import React from "react";
 const AboutData = [
   {
     sortDescription:
-      "I am Shambhavi Mishra from Lucknow, India. I am working in an Indian Startup as a Product Designer for the past one year.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et risus sapien. Aliquam tempus sapien non laoreet posuere.      ",
     description:
-      "I got featured various times on many big and small marketplaces, portfolio websites and blogs. I also received some awards and recognitions from some of the big and small award companies. Besides designing, I like to write poems, stories and sing songs.",
+      "I have been waiting. I've been waiting all day. Waiting for Gus to send one of his men to kill me. And it's you. Who do you know, who's okay with using children, Jesse? Who do you know… who's allowed children to be murdered… hmm? Gus! He has, he has been ten steps ahead of me at every turn.",
   },
 ];
 export default function About() {
