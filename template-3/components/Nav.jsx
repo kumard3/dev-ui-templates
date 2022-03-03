@@ -21,7 +21,7 @@ export default function Nav() {
   ];
   return (
     <div className="max-w-xl font-sans font-bold  py-10">
-      <div className=" flex justify-evenly ">
+      <div className=" flex justify-evenly text-2xl ">
         {navData.map((n) => {
           return <div>{n.name}</div>;
         })}
