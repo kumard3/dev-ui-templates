@@ -10,7 +10,7 @@ export default function Hero() {
               👋 Hello All
             </button>
 
-            <h1 className="text-black-800 flex flex-col justify-start items-start text-5xl sm:text-6xl md:text-7xl font-bold mb-8 md:mb-12">
+            <h1 className="text-black-800 flex flex-col justify-start items-start text-[40px]  sm:text-6xl md:text-7xl font-bold mb-8 md:mb-12">
               I'm Dummy Text,
               <span className="py-3">A Product Designer </span>
               <span>and Problem Solver</span>
