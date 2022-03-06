@@ -1,5 +1,23 @@
 import React from "react";
 
+const data = [
+  {
+    title: "01/",
+    description:
+      "Artists themselves become a platform. NFTs allow artistes, especially upcoming ones, to create an ecosystem that allows genuine fans to buy into their market.",
+  },
+  {
+    title: "02/",
+    description:
+      "NFT gives all the power to creators. Anyone upcoming artiste can do their stuff on-chain, making them more independent and freeing them from unfavorable deals from record labels. ",
+  },
+  {
+    title: "03/",
+    description:
+      "A positive NFT-fueled change in the music market can upstage crypto adoption at large.",
+  },
+];
+
 export default function Community() {
   return (
     <div className="my-[10rem]">
@@ -11,30 +29,14 @@ export default function Community() {
           Engage your <span> Fans with community</span>{" "}
         </h1>
         <div className="flex flex-wrap   justify-center  items-center">
-          <div className="flex flex-col max-w-sm p-5">
-            <h1 className="text-[60px]">01</h1>
-            <p>
-              Artists themselves become a platform. NFTs allow artistes,
-              especially upcoming ones, to create an ecosystem that allows
-              genuine fans to buy into their market.
-            </p>
-          </div>
-          <div className="flex flex-col max-w-sm p-5">
-            <h1 className="text-[60px]">01</h1>
-            <p>
-              Artists themselves become a platform. NFTs allow artistes,
-              especially upcoming ones, to create an ecosystem that allows
-              genuine fans to buy into their market.
-            </p>
-          </div>{" "}
-          <div className="flex flex-col max-w-sm p-5">
-            <h1 className="text-[60px]">01</h1>
-            <p>
-              Artists themselves become a platform. NFTs allow artistes,
-              especially upcoming ones, to create an ecosystem that allows
-              genuine fans to buy into their market.
-            </p>
-          </div>
+          {data.map((n, index) => {
+            return (
+              <div key={index} className="flex flex-col max-w-sm p-5">
+                <h1 className="text-[60px] font-mono">{n.title}</h1>
+                <p>{n.description}</p>
+              </div>
+            );
+          })}
         </div>
       </div>
     </div>

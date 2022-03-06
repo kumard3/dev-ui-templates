@@ -25,8 +25,8 @@ export default function Hero() {
               </button>
             </>
             <>
-              <button className="px-6 py-3  border-2 ml-10  sm:text-lg font-bold rounded-3xl glass transition-colors duration-500 text-white ">
-                Discover More {`>`}
+              <button className="px-6 py-3  border-2 ml-10 flex items-center  sm:text-lg font-bold rounded-3xl glass transition-colors duration-500 text-white ">
+                Discover More <img src="arrow.svg" className="pl-2" />
               </button>
             </>
           </div>
