@@ -5,7 +5,7 @@ export default function AboutSection() {
     <div className="h-screen">
       <div className="flex justify-between items-center px-10 flex-wrap">
         <div className="max-w-[608px]">
-          <h1 className="text-[80px]">How do Music NFTs work?</h1>
+          <h1 className="text-5xl sm:text-[80px]">How do Music NFTs work?</h1>
           <p className="text-xl">
             NFTs are unique assets stored and tradable on a blockchain. They
             are, immutable, scarce and publicly verifiable. In the music world,

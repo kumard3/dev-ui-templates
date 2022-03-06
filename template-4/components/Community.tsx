@@ -7,7 +7,7 @@ export default function Community() {
         <img src="Ellipse18.svg" className="relative " />
       </div>
       <div className="flex flex-col container mx-auto">
-        <h1 className="text-[80px] flex flex-col ">
+        <h1 className="text-5xl sm:text-[80px] flex flex-col ">
           Engage your <span> Fans with community</span>{" "}
         </h1>
         <div className="flex flex-wrap   justify-center  items-center">
