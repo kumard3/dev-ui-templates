@@ -1,4 +1,7 @@
 
+<h1 align="center">
+  Dev.UI template 
+</h1>
 
 <img src="./public/Thumbnail.png">
 
