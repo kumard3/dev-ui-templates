@@ -1,5 +1,5 @@
 <h1 align="center">
-  Next.js blog starter
+  Devui template
 </h1>
 
 
