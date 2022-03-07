@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Next.js template 
+  Dev.UI template 
 </h1>
 
 [Design link](https://www.figma.com/community/file/1080739614781022185)
