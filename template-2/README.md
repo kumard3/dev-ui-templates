@@ -1,82 +1,51 @@
-
-<p  align="center">
-
-<img  src="https://res.cloudinary.com/ddcg0rzlo/image/upload/v1640340715/nextjs-tailwind-typescript-banner_vslgq4.png"  alt="Next.js TypeScript Starter">
-
-</p>
-
-  
-
-<br />
-
-  
-
-<div  align="center"><strong>TypeScript with Tailwind starter for Next.js</strong></div>
-
-  
-
-<br />
-
-  
-
-## Features
-
-  
-
-- ⚡️ Next.js 12
-
-- ⚛️ React 17
-
-- ⛑ TypeScript
-- <img src="https://res.cloudinary.com/ddcg0rzlo/image/upload/v1640341222/tailwindcss_nzwqt7.svg" width="" height="16" />
-- 📏 ESLint — Find and fix problems in your code
-  
+<h1 align="center">
+  Next.js blog starter
+</h1>
 
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) (web only):
+## 🚀 Getting Started
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/Cyphen12/tailwind-typescript-starter&project-name=tailwind-typescript-starte&repository-name=tailwind-typescript-starte)
-
-## Quick Start
-
-  
-
-The best way to start with this template is using [Create Next App](https://nextjs.org/docs/api-reference/create-next-app).
-
-  
-
-```
-
-yarn create next-app -e https://github.com/Cyphen12/tailwind-typescript-starter
-
-# or
-
-npx create-next-app -e https://github.com/Cyphen12/tailwind-typescript-starter
-
-```
-
-  
-
-### Development
-
-  
-
-To start the project locally, run:
-
-  
+First, run the development server:
 
 ```bash
-
+npm run dev
+# or
 yarn dev
-
 ```
 
-  
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Open `http://localhost:3000` with your browser to see the result.
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
- 
+## ✍ Customizing Tailwind Typography
 
-  
+[Tailwind Typography](https://github.com/tailwindlabs/tailwindcss-typography) is an official tailwind plugin that provides a set of `prose` classes to add beautiful typographic defaults to any vanilla HTML you don't control (like HTML rendered from Markdown, or pulled from a CMS).
+
+To customize the defaults provided by the plugin, add the overrides under the `typography` key in the theme section of the `tailwind.config.js` file. Refer to its [default styles](https://github.com/tailwindlabs/tailwindcss-typography/blob/master/src/styles.js) for more in-depth examples.
+
+For more information, please check out Tailwind Typography's [customization section](https://github.com/tailwindlabs/tailwindcss-typography#customization).
+
+## 📖 Learn More
+
+### Next.js
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+### Tailwind CSS
+
+To learn more about Tailwind CSS, take a look at the following resources:
+
+- [Tailwind Documentation](https://tailwindcss.com/) - learn about Tailwind CSS features and API.
+
+
+## ☁ Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kumard3/dev-ui-templates/tree/main/template-2)
+
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/kumard3/dev-ui-templates/tree/main/template-2)
