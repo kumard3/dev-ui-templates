@@ -1,5 +1,5 @@
 <h1 align="center">
-  Next.js template starter
+  Next.js template 
 </h1>
 
 [Live Version](https://nifty-meninsky-f9c1ca.netlify.app/)
