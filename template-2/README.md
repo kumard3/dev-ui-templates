@@ -1,7 +1,7 @@
-<h1 align="center">
-  Devui template
-</h1>
 
+<h1 align="center">
+  Dev.UI template 
+</h1>
 
 
 ## 🚀 Getting Started
