@@ -1,7 +1,8 @@
 <h1 align="center">
   Next.js blog starter
 </h1>
-# [Check Out the live version](https://nifty-meninsky-f9c1ca.netlify.app/)
+
+[Live Version](https://nifty-meninsky-f9c1ca.netlify.app/)
 
 
 ## 🚀 Getting Started
