@@ -3,6 +3,7 @@
   Dev.UI template 
 </h1>
 
+[Deployed link](https://boring-lamarr-42ae45.netlify.app/)
 <img src="./public/Thumbnail.png">
 
 
