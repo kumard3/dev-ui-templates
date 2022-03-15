@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spartan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.orbitron {
+  font-family: 'Orbitron', sans-serif;
+}
+.spartan{
+    font-family: 'Spartan', sans-serif;
+}
+
+.robot{
+  font-family: Roboto, sans-serif;
+}
+.gradient{
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) -1.52%,
+    rgba(255, 255, 255, 0.024) 104.35%
+  ),
+  rgba(162, 96, 243, 0.3);
+}
