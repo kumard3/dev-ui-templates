@@ -1,3 +1,2 @@
-# dev-ui-templates
-## This repo conatain all the template of 
-[Deui](https://dev-ui.vercel.app)
+# Dev.Ui-templates
+## This repo conatain all the template of [Dev.Ui](https://dev-ui.vercel.app)
