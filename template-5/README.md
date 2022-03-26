@@ -8,7 +8,7 @@
 
 <img width="1440" alt="Screenshot 2022-03-15 at 10 57 05 AM" src="https://user-images.githubusercontent.com/62591080/158313255-95cb464b-de9d-4b6f-af29-a1e72fb995c0.png">
 
-
+[Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-4)
 
 
 ## 🚀 Getting Started
