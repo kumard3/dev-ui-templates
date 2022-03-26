@@ -3,6 +3,8 @@
   Dev.UI template 
 </h1>
 
+[Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-2)
+
 
 ## 🚀 Getting Started
 
