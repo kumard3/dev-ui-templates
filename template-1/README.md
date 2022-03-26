@@ -4,6 +4,8 @@
 
 [Live Version](https://nifty-meninsky-f9c1ca.netlify.app/)
 
+[Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-1)
+
 
 ## 🚀 Getting Started
 
