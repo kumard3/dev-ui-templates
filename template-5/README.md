@@ -8,7 +8,7 @@
 
 <img width="1440" alt="Screenshot 2022-03-15 at 10 57 05 AM" src="https://user-images.githubusercontent.com/62591080/158313255-95cb464b-de9d-4b6f-af29-a1e72fb995c0.png">
 
-[Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-4)
+[Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-5)
 
 
 ## 🚀 Getting Started
@@ -53,6 +53,6 @@ To learn more about Tailwind CSS, take a look at the following resources:
 
 ## ☁ Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kumard3/dev-ui-templates/tree/main/template-4)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kumard3/dev-ui-templates/tree/main/template-5)
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/kumard3/dev-ui-templates/tree/main/template-5)
