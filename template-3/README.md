@@ -9,6 +9,7 @@
 
 [Figma Design File](https://www.figma.com/file/g6GqK4rG9PTRcDkRgKlg2T/Designer-Portfolio-Website-Template-(Community)?node-id=0%3A1) 
 
+[Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-3)
 
 
 ## 🚀 Getting Started
