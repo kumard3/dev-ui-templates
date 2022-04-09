@@ -4,7 +4,7 @@
   Dev.UI template 
 </h1>
 
-[Deployed link](https://circle-chain-web3.pages.dev/)  [Design link](https://www.figma.com/community/file/1092381274099847617/Circlechain---Web3-Landing-Page)
+[Deployed link](https://circle-chain-web3.pages.dev/).         [Design link](https://www.figma.com/community/file/1092381274099847617/Circlechain---Web3-Landing-Page)
 ![Cover-circlechain](https://user-images.githubusercontent.com/62591080/162576058-63cea1d1-49bb-4b46-9836-863f163ecfee.jpg)
 
 
