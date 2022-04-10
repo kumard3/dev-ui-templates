@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.gradientText {
+    background: -webkit-linear-gradient(left, #6DC1DC, #A690FC,#FC96BB,#FFC397);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .gradientbutton {
+    color: white;
+    background: -webkit-linear-gradient(left, #ff8867, #ff52ff);
+    background-size: 200% 200%;
+    animation: gradient-animation 4s ease infinite;
+  }
+  
+  
+  
+  @-webkit-keyframes AnimationName {
+    0%{background-position:0% 42%}
+    50%{background-position:100% 59%}
+    100%{background-position:0% 42%}
+  }
+  @-moz-keyframes AnimationName {
+    0%{background-position:0% 42%}
+    50%{background-position:100% 59%}
+    100%{background-position:0% 42%}
+  }
+  @-o-keyframes AnimationName {
+    0%{background-position:0% 42%}
+    50%{background-position:100% 59%}
+    100%{background-position:0% 42%}
+  }
+  @keyframes AnimationName {
+    0%{background-position:0% 42%}
+    50%{background-position:100% 59%}
+    100%{background-position:0% 42%}
+  }
+  
+  
+  @-moz-keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  @keyframes gradient-animation {
+    0% , 50% {
+      background-position: 100% 50%;
+    }
+  
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
