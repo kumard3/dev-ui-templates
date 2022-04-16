@@ -11,16 +11,19 @@ export default function About() {
         A brief intro to who i am and how i do what i do:
       </p>
       <h1 className="SpaceGroteskRegular py-5 text-4xl ">
-        I am <span className="text-6xl SpaceGroteskBold ">OLOLADE</span>
+        I am <span className="text-6xl SpaceGroteskBold ">Kumar Deepanshu</span>
       </h1>
       <div className="bg-[#60A5FA] h-[120px] top-[30rem] left-[5px] absolute w-[120px] rounded-full blur-[90px] filter "></div>
 
       <div className="SpaceGroteskRegular text-[24px] max-w-5xl mt-3">
         <p className="SpaceGroteskRegular text-[24px] py-5">
-          A web designer from Nigeria. I got into tech while i was student at
-          olabisi onabanjo university, Bsc Zoology. I've always been fascinated
-          with how things work. fast forward to 2 years later and i'm now
-          designing landing pages for business around the world.
+          An enthusiastic front-end software engineer with more than 4 years of
+          experience in the field. during the last four years, from front-end to
+          mobile to desktop to back-end I have experience of developing a lot of
+          applications using modern JavaScript frameworks and libraries. As a
+          developer who thrives in agile teams, I have worked successfully with
+          product owners, developers, and designers to achieve successful
+          implementations.
         </p>
         <p className="SpaceGroteskRegular text-[24px] py-5">
           I believe i've got the right skills and technologies to take your
