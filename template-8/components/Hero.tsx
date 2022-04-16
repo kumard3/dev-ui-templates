@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Hero() {
   return (
-    <div className="relative w-full  container px-4 mx-auto flex flex-col justify-center items-center h-screen ">
+    <div className="relative w-full  container px-4 mx-auto flex flex-col justify-center items-center h-screen -mt-20 ">
       <div className="bg-[#60A5FA] h-[120px] top-36 right-20 absolute w-[120px] rounded-full blur-[90px] filter "></div>
       <div className="bg-[#60A5FA] h-[120px] top-[200px] right-[200px] absolute w-[120px] rounded-full blur-[90px] filter "></div>
       <div className="flex flex-col items-start relative ">
