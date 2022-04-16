@@ -32,7 +32,7 @@ export default function About() {
       <>
         <div className="relative block group  my-7 cursor-pointer">
           <span className="absolute inset-0 border-2  border-[#188AEC] rounded-lg"></span>
-          <div className="transition bg-[#188AEC]  rounded-lg group-hover:-translate-x-0  group-hover:-translate-y-0 -translate-x-3 translate-y-2">
+          <div className="transition bg-[#188AEC] text-white rounded-lg group-hover:-translate-x-0  group-hover:-translate-y-0 -translate-x-3 translate-y-2">
             <div className="py-3 px-10 ">
               <p className="mt-1 text-xl">Say Hello</p>
             </div>

@@ -6,6 +6,7 @@ import { ThemeProvider } from "next-themes";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThemeProvider attribute="class">
+      <h1 className="Yellowtail text-5xl py-4 px-5">Deepanshu</h1>
       <Component {...pageProps} />
       <BottomNav />
     </ThemeProvider>

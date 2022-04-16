@@ -17,6 +17,10 @@
   @font-face {
     font-family: SpaceGroteskSemiBold;
     src: url(/fonts/SpaceGrotesk-SemiBold.ttf);
+  } 
+ @font-face {
+    font-family: Yellowtail;
+    src: url(/fonts/Yellowtail-Regular.ttf);
   }
 
 .SpaceGroteskBold{
@@ -24,6 +28,9 @@
 }
 .SpaceGroteskRegular{
     font-family: SpaceGroteskRegular;
+}
+.Yellowtail{
+    font-family: Yellowtail;
 }
 
 .text {
