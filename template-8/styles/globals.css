@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: SpaceGroteskBold;
+    src: url(/fonts/SpaceGrotesk-Bold.ttf);
+  }
+  @font-face {
+    font-family: SpaceGroteskLight;
+    src: url(/fonts/SpaceGrotesk-Light.ttf);
+  }
+@font-face {
+    font-family: SpaceGroteskRegular;
+    src: url(/fonts/SpaceGrotesk-Regular.ttf);
+  }
+  @font-face {
+    font-family: SpaceGroteskSemiBold;
+    src: url(/fonts/SpaceGrotesk-SemiBold.ttf);
+  }
+
+.SpaceGroteskBold{
+    font-family: SpaceGroteskBold;
+}
+.SpaceGroteskRegular{
+    font-family: SpaceGroteskRegular;
+}
+
+.text {
+    background: linear-gradient(
+      90.2deg,
+      #3b82f6 63.77%,
+      #ec4899 83.43%,
+      #3b82f6 99.94%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
