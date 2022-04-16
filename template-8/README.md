@@ -4,8 +4,8 @@
   Dev.UI template 
 </h1>
 
-<!-- [Deployed link](https://pixi-world-landing-page.pages.dev/).         [Design link](https://www.figma.com/community/file/1085183523900265062/Pixi---World)
-![Logoipsum-landing-page](https://user-images.githubusercontent.com/62591080/162624976-e6744bdb-9add-4f40-9514-e279da7275ce.png) -->
+[Deployed link](https://portfolio-templte.pages.dev/)      [Design link](https://www.figma.com/community/file/1093104124917116878)
+![Logoipsum-landing-page](https://user-images.githubusercontent.com/62591080/162624976-e6744bdb-9add-4f40-9514-e279da7275ce.png)
 
 
 [Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-8)
