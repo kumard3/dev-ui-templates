@@ -1,5 +1,5 @@
 # Dev.Ui Templates
-## This repo conatain all the template of [Dev.Ui](https://dev-ui.vercel.app)
+## This repo conatain all the template of [Dev.Ui](https://dev-ui.vercel.app/templates)
 
 [![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)](https://dev-ui.vercel.app)
 <!-- [![License](https://img.shields.io/badge/-mit-red.svg?longCache=true&style=for-the-badge)](https://github.com/tdemapp/website/blob/master/LICENSE) -->
