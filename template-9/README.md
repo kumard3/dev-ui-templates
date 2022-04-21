@@ -4,8 +4,7 @@
   Dev.UI template 
 </h1>
 
-<!-- [Deployed link](https://dev-ui-templates.pages.dev/)      [Design link](https://www.figma.com/community/file/1093104124917116878)
-<img width="1436" alt="template-8" src="https://user-images.githubusercontent.com/62591080/163678260-fcb31e98-e3d6-45cb-880e-ac5ba14f1065.png"> -->
+[Deployed link](https://dev-ui-templates.pages.dev/)  [Design link](https://www.figma.com/community/file/1092001412627112221/NFT-Marketplace---Free-UI-Kit-Landing-Page) ![Screenshot 2022-04-21 at 10 42 32 PM](https://user-images.githubusercontent.com/62591080/164515406-2516027a-b096-4944-b644-4530e05d68da.png)
 
 
 
