@@ -4,7 +4,7 @@
   Dev.UI template 
 </h1>
 
-<!-- [Deployed link](https://portfolio-templte.pages.dev/)      [Design link](https://www.figma.com/community/file/1093104124917116878)
+<!-- [Deployed link](https://dev-ui-templates.pages.dev/)      [Design link](https://www.figma.com/community/file/1093104124917116878)
 <img width="1436" alt="template-8" src="https://user-images.githubusercontent.com/62591080/163678260-fcb31e98-e3d6-45cb-880e-ac5ba14f1065.png"> -->
 
 
