@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  
+  .sphere path {
+    fill: url(#sphereGradient);
+    stroke-width: 1px;
+    stroke: rgba(80,80,80,.35);
+    backface-visibility: hidden;
+  }
+  
+  @media (min-width: 500px) {
+    .sphere path {
+      stroke-width: .4px;
+    }
+  }
