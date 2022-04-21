@@ -3,31 +3,25 @@ import useOnClickOutside from "./useOnClickOutside";
 
 const navData = [
   {
-    name: "Home",
+    name: "Explore",
     href: "#home",
   },
   {
-    name: "Work",
+    name: "Activity",
     href: "#work",
   },
   {
-    name: "About",
+    name: "Resources",
     href: "#about",
   },
 ];
 
 export default function NavComponent() {
-  const data = ["Home", "Work", "About"];
-  // Create a ref that we add to the element for which we want to detect outside clicks
   const ref = useRef<HTMLDivElement>(null);
-
-  // State for our modal
   const [isModalOpen, setModalOpen] = useState(false);
-  // Call hook passing in the ref and a function to call on outside click
   useOnClickOutside(ref, () => setModalOpen(false));
 
   return (
-    // <Popover className= {`sticky top-0 z-40 w-full backdrop-blur flex-none transition-colors duration-500 lg:z-50 lg:border-b lg:border-gray-900/10 bg-white supports-backdrop-blur:bg-white/95 ${show && 'bg-inherit	'}`}>
     <div className="sticky top-0 z-10 backdrop-blur-xl  text-xl font-bold drop-shadow-xl flex-none transition-colors duration-500  ">
       <div className="flex justify-between items-center sm:px-8  py-6 sm:justify-between sm:space-x-10">
         <div className="flex justify-start">
@@ -123,10 +117,10 @@ export default function NavComponent() {
         </div>
         <div className="hidden sm:block ">
           <ul className="text-black flex items-center h-full justify-center ">
-            {data.map((n, index) => {
+            {navData.map((n, index) => {
               return (
                 <li key={index} className="mx-5 text-xl">
-                  {n}
+                  {n.name}
                 </li>
               );
             })}
