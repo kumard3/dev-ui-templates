@@ -92,7 +92,7 @@ class MyDocument extends Document {
 
           <meta charSet="utf-8" />
         </Head>
-        <body className=" bg-white dark:bg-gradient-to-r dark:from-[#1F2937]  dark:to-[#111827] min-h-screen w-full relative text-gray-600 dark:text-white ">
+        <body>
           <Main />
           <NextScript />
         </body>
