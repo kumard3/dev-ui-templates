@@ -1,3 +1,29 @@
+@font-face {
+    font-family: jostregular;
+    src: url(/fonts/Jost-Regular.ttf);
+  }
+  @font-face {
+    font-family: jostmedium;
+    src: url(/fonts/Jost-Medium.ttf);
+  }
+  @font-face {
+    font-family: jostbold;
+    src: url(/fonts/Jost-Bold.ttf);
+  }
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.jostRegular{
+    font-family: 'jostregular', sans-serif;
+}
+.jostMedium{
+    font-family: 'jostmedium', sans-serif;
+}
+.jostBold{
+    font-family: 'jostbold', sans-serif;
+}
+  
