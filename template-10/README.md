@@ -7,6 +7,7 @@
 [Deployed link](https://agency-landing-page.pages.dev/)  [Design link](https://www.figma.com/community/file/1062212722411378598/Agency-Free-Loading-Page
 ) 
 
+![Screenshot 2022-04-29 at 10 36 56 PM](https://user-images.githubusercontent.com/62591080/166060372-207a967f-d8e4-4fb9-9bd5-04b3c92f2f1b.jpg)
 
 
 [Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-10)
