@@ -2,6 +2,11 @@
   Dev.UI template 
 </h1>
 
+<!--  -->
+
+[Deployed link](https://agency-landingpage.pages.dev/)
+[Design link](https://www.figma.com/community/file/1022163547182520272)
+
 [Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-11)
 
 ## 🚀 Getting Started
