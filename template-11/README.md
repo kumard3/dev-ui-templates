@@ -2,11 +2,7 @@
   Dev.UI template 
 </h1>
 
-[Deployed link](https://agency-landing-page.pages.dev/) [Design link](https://www.figma.com/community/file/1062212722411378598/Agency-Free-Loading-Page)
-
-![Screenshot 2022-04-29 at 10 36 56 PM](https://user-images.githubusercontent.com/62591080/166060372-207a967f-d8e4-4fb9-9bd5-04b3c92f2f1b.jpg)
-
-[Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-10)
+[Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-11)
 
 ## 🚀 Getting Started
 
@@ -49,4 +45,4 @@ To learn more about Tailwind CSS, take a look at the following resources:
 
 ## ☁ Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kumard3/dev-ui-templates/tree/main/template-10) [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/kumard3/dev-ui-templates/tree/main/template-10)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kumard3/dev-ui-templates/tree/main/template-11) [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/kumard3/dev-ui-templates/tree/main/template-11)
