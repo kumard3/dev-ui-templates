@@ -152,13 +152,13 @@ export default function Hero() {
                 href="#"
                 className="px-8 py-3 text-lg font-semibold rounded text-white bg-[#7C76BB]"
               >
-                Lorem
+                Get Started
               </a>
               <a
                 href="#"
                 className="px-8 py-3 text-gray-800 bg-white text-lg font-semibold border rounded border-[#7C76BB] hover:text-[#7C76BB] duration-300 transition-all "
               >
-                ipsum
+                Contact Us
               </a>
             </div>
           </div>
