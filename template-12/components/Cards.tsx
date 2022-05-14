@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import { EthIcon } from "./ethIcon";
+import { EthIcon } from "./EthIcon";
 interface Props {
   name: string;
   image: string;
