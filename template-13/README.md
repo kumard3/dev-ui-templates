@@ -4,8 +4,9 @@
 
 <!--  -->
 
-[Deployed link](https://designer-portfolio.pages.dev/)
-[Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-13)
+- [Deployed link](https://designer-portfolio.pages.dev/)
+- [Design Link](https://www.figma.com/community/file/1107859971007623263)
+- [Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-13)
 
 ## 🚀 Getting Started
 
