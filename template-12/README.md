@@ -2,6 +2,8 @@
   Dev.UI template 
 </h1>
 
+![ image ](https://user-images.githubusercontent.com/62591080/168457673-295fdf37-b6c3-4ad3-b65a-d9f7327b0aa0.png)
+
 <!--  -->
 
 [Deployed link](https://nft-template.pages.dev/)
