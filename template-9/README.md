@@ -10,6 +10,7 @@
 
 [Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-9)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-9)
 
 ## 🚀 Getting Started
 
