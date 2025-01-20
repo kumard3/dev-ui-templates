@@ -8,9 +8,6 @@
 - [Design Link](https://www.figma.com/community/file/1107859971007623263)
 - [Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-13)
 
-- [![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-13)
-
-
 ## 🚀 Getting Started
 
 First, run the development server:
