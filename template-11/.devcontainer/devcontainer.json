@@ -1,0 +1,13 @@
+{
+  "name": "Template 11 Dev Container",
+  "dockerFile": "Dockerfile",
+  "workspaceFolder": "/workspace/template-11",
+  "forwardPorts": [3000],
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint","esbenp.prettier-vscode"]
+    }
+  },
+  "shutdownAction": "stopContainer"
+}
