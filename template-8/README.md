@@ -8,8 +8,9 @@
 <img width="1436" alt="template-8" src="https://user-images.githubusercontent.com/62591080/163678260-fcb31e98-e3d6-45cb-880e-ac5ba14f1065.png">
 
 
-
 [Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-8)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/kumard3/dev-ui-templates/tree/main/template-8)
 
 ## 🚀 Getting Started
 
