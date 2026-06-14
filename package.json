@@ -1,0 +1,9 @@
+{
+  "name": "dev-ui-templates",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*",
+    "templates/*"
+  ]
+}

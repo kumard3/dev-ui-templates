@@ -1,47 +1,51 @@
-# Dev.Ui Templates
-## This repo conatain all the template of [Dev.Ui](https://dev-ui.vercel.app/templates)
+# DevUI Templates
 
-[![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)](https://dev-ui.vercel.app)
-<!-- [![License](https://img.shields.io/badge/-mit-red.svg?longCache=true&style=for-the-badge)](https://github.com/tdemapp/website/blob/master/LICENSE) -->
-<!-- [![Website](https://img.shields.io/badge/Deploy-brightgreen.svg?logo=vercel&longCache=true&style=for-the-badge)](https://vercel.com/import/project?template=https://github.com/nurodev/nuro.dev) -->
+Free, open-source UI templates from [DevUI](https://dev-ui.vercel.app). MIT licensed — use them
+in anything.
 
-</div>
+## AI starters
 
-## 🛠 Development
+Modern templates built with **Next.js 14, TypeScript, and Tailwind**, all composed from a
+shared `@devui/ui` design system (solid monochrome theme, no gradients). Live demos:
 
-Clone the repository
+| Template | Live demo | Code |
+|----------|-----------|------|
+| AI SaaS Landing | https://devui-ai-saas-landing.pages.dev | `templates/ai-saas-landing` |
+| AI Chat | https://devui-ai-chat.pages.dev | `templates/ai-chat` |
+| AI Agent Dashboard | https://devui-ai-agent-dashboard.pages.dev | `templates/ai-agent-dashboard` |
 
-```zsh
-git clone https://github.com/kumard3/dev-ui-templates.git
+### Run
+
+```bash
+bun install            # from the repo root (links @devui/ui into every template)
+cd templates/ai-chat
+bun run dev
 ```
 
-Install dependencies
+### Restyle everything at once
 
-```zsh
-npm install
+Colors live in one file: `packages/ui/tailwind-preset.ts`. Change the tokens and every
+template updates.
 
-# Or using Yarn
+### Deploy to Vercel + Cloudflare
 
+```bash
+./deploy.sh ai-chat both      # or: vercel | cf
+```
+
+Full options (Netlify, static, full Next.js) are in `DEPLOY.md`.
+
+## Legacy templates
+
+The `template-1` … `template-13` folders are the original DevUI templates (NFT, portfolio,
+agency landing pages). Each is a standalone app:
+
+```bash
+cd template-1
 yarn
-```
-
-Start the development server
-
-```zsh
-npm run dev
-
-# Or using Yarn
-
 yarn dev
 ```
 
-Build for production
+## License
 
-```zsh
-npm run build
-
-# Or using Yarn
-
-yarn build
-```
-
+MIT — see `LICENSE`.
