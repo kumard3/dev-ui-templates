@@ -15,7 +15,7 @@ export default function Blog() {
             <img
               role="presentation"
               className="object-cover w-full rounded h-44 "
-              src="https://source.unsplash.com/random/481x361"
+              src="https://picsum.photos/seed/dev-ui-blog-1/481/361"
             />
             <div className="p-6 space-y-2">
               <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
@@ -39,7 +39,7 @@ export default function Blog() {
             <img
               role="presentation"
               className="object-cover w-full rounded h-44 "
-              src="https://source.unsplash.com/random/482x362"
+              src="https://picsum.photos/seed/dev-ui-blog-2/482/362"
             />
             <div className="p-6 space-y-2">
               <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
@@ -63,7 +63,7 @@ export default function Blog() {
             <img
               role="presentation"
               className="object-cover w-full rounded h-44 "
-              src="https://source.unsplash.com/random/483x363"
+              src="https://picsum.photos/seed/dev-ui-blog-3/483/363"
             />
             <div className="p-6 space-y-2">
               <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
