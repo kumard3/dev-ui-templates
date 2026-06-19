@@ -6,12 +6,9 @@
 
 [Deployed link](https://dev-ui-templates.pages.dev/)  [Design link](https://www.figma.com/community/file/1092001412627112221/NFT-Marketplace---Free-UI-Kit-Landing-Page) ![Screenshot 2022-04-21 at 10 42 32 PM](https://user-images.githubusercontent.com/62591080/164515406-2516027a-b096-4944-b644-4530e05d68da.png)
 
-
-
 [Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-9)
 
-[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-9)
-
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/kumard3/dev-ui-templates/tree/main/template-9)
 ## 🚀 Getting Started
 
 First, run the development server:
